@@ -20,5 +20,5 @@ Android Config App
 Search “KBeacon” in Google Play or scan the below QR code.
 ![avatar](https://github.com/kkmhogen/KBeaconDocument/blob/master/AndroidApp.jpg)
 
-## 6. Change log
+## 2. Change log
 * 2019.12.16 v1.21 init
